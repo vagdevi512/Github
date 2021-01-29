@@ -1,0 +1,14 @@
+pwd
+ls
+cat
+mkdir
+cd
+echo
+git init
+git add
+git log
+git status
+git commit -m "msg"
+git log --oneline
+git checkout
+git config --global user.name
